@@ -1,6 +1,6 @@
 # whisper2subtitles
 
-<img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_blue.png?_gl=1*1lrplqr*_ga*MjA3NzkyMTU3Mi4xNjgxMDg2MjQw*_ga_M13FZ7VQ2C*MTY4MTA4NjI0Ni4xLjEuMTY4MTA4NzYxNi40NC4wLjA." alt="Ko-fi" width="100px">
+<img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_blue.png?_gl=1*1lrplqr*_ga*MjA3NzkyMTU3Mi4xNjgxMDg2MjQw*_ga_M13FZ7VQ2C*MTY4MTA4NjI0Ni4xLjEuMTY4MTA4NzYxNi40NC4wLjA." alt="Ko-fi" width="150px">
 
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/feynlee/whisper2subtitles/blob/main/Whisper2subtitles.ipynb)
 
